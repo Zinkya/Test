@@ -1113,7 +1113,7 @@ img[src="/assets/bfffd518c76d3f6bc5e96eb52e4ae2cf.svg"],
 	position: absolute;
 }
 .auth-inner:before {
-	filter: blur(3px);
+	filter: blur(0px);
 }
 
 .Select-menu-outer.inChat {
